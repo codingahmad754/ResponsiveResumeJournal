@@ -110,7 +110,7 @@ li:focus {
 }
 
 .grid-card {
-    cursor: pointer;
+    /* cursor: pointer; */
     box-shadow: 0 0 1em rgba(0, 0, 0, .25);
     padding: 1em;
     background: white;
